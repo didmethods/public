@@ -1,5 +1,6 @@
-# public
-A list of all known DID method specs. Our intent is to include all serious specs for all method names and let the reader determine which ones to implement. Specs might conflict. Caveat emptor. Submit changes via PR. 
+# DID Methods
+
+Our policy is to list all serious specs for each method name, and let the reader determine which ones to implement. Specs might conflict, because DIDs are decentralized. Caveat emptor. Submit changes via PR. 
 
 Name|Specification
 ----|:-----------------
